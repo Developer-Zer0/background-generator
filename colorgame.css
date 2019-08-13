@@ -1,0 +1,56 @@
+body{
+	background: #c4c8cc;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.jumbotron{
+	text-align: center;
+	background: #007897;
+	color: white;
+}
+
+h1{
+	font-weight: 800;
+	letter-spacing: 4px;
+}
+
+#navbar{
+	background: white;
+}
+
+#newcolors{
+	text-align: center;
+	color: #007897;
+	font-weight: 800;
+}
+
+button{
+	text-align: end;
+	background: rgba(0, 0, 0, 0);
+	border: 0px solid white;
+	color: #007897;
+	font-weight: 800;
+}
+
+.blue{
+	background: #007897;
+	color: white;
+	border-bottom-right-radius: 7px;
+	border-bottom-left-radius: 7px;
+}
+
+.border{
+	text-shadow: 2px 0 0 #000, -2px 0 0 #000, 0 2px 0 #000,  0 -2px 0 #000, 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;
+}
+
+section div div{
+	height: 240px;
+	padding: 10px;
+}
+
+section div div div{
+	height: 220px;
+	background-color: blue;
+	padding: 10px;
+	border-radius: 30px;
+}
